@@ -1,16 +1,45 @@
-## Hi there 👋
+CryptHammerX
 
-<!--
-**CryptHammerX/CryptHammerX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Game Developer | Console Modder | Hardware Enthusiast
 
-Here are some ideas to get you started:
+Independent developer and creator behind CryptAnvil Systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work on restoring, modifying, and extending the capabilities of gaming hardware while developing original games, software tools, and custom electronics.
+
+What I'm Working On
+
+🎮 Game Development
+
+- Original roguelite games
+- Reusable gameplay frameworks
+- Experimental game mechanics and systems
+
+🔧 Console Modding
+
+- Xbox 360 RGH3 customization
+- Console restoration and refurbishment
+- Custom dashboards and configuration tools
+
+⚙️ Hardware & Engineering
+
+- Custom console hardware
+- Electronics and hardware modifications
+- Tools for testing and restoration
+
+CryptAnvil Systems
+
+Nothing Stays Dead.
+
+CryptAnvil Systems is my gaming hardware and restoration brand, focused on giving existing technology new life and developing custom hardware solutions.
+
+Connect
+
+🎮 Xbox: CryptHammerX
+
+📺 YouTube: https://www.youtube.com/@CryptHammerX
+
+💬 Discord: crypthammerx
+
+---
+
+Build. Modify. Create. Repeat.
